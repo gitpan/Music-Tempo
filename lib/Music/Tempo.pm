@@ -4,7 +4,7 @@ use strict;
 BEGIN {
 	use Exporter ();
 	use vars qw ($VERSION @ISA @EXPORT);
-	$VERSION     = 0.01;
+	$VERSION     = 0.02;
 	@ISA         = qw (Exporter);
 	@EXPORT      = qw (bpm_to_italian italian_to_bpm bpm_to_ms ms_to_bpm);
 }

@@ -3,7 +3,7 @@ LICENSE
 README
 Todo
 Changes
-lib/Music/Scales.pm
+lib/Music/Tempo.pm
 t/001_load.t
 t/002_italian.t
 t/003_ms.t
